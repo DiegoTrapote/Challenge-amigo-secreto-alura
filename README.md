@@ -17,3 +17,4 @@
   <li>JavaScript: Lógica del juego. </li>
 </ul>
 <h2>📁 Acceso al proyecto</h2>
+https://diegotrapote.github.io/Challenge-amigo-secreto-alura/
