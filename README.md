@@ -7,8 +7,16 @@
 <ol>
   <li>Agregar Amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir". Repite este paso para cada amigo que quieras agregar.</li>
   
+  ![Paso 1](https://github.com/user-attachments/assets/f77d9218-d2ff-412e-9ad6-d4454ec218fd)
+  
   <li>Ver Lista de Amigos: Los nombres agregados aparecerán en una lista debajo del campo de texto.</li>
+
+  ![Paso 2](https://github.com/DiegoTrapote/Challenge-amigo-secreto-alura/blob/main/assets/2.jpg?raw=true)
+  
   <li>Sortear Amigo Secreto: Haz clic en el botón "Sortear amigo" para seleccionar de manera aleatoria un amigo secreto. El nombre sorteado se mostrará en pantalla y la lista de amigos se limpiará.</li>
+
+![Paso 3](https://github.com/DiegoTrapote/Challenge-amigo-secreto-alura/blob/main/assets/3.jpg?raw=true)
+  
 </ol>
 <h2>Tecnologías utilizadas</h2>
 <ul>
