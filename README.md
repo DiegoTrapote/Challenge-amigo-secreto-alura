@@ -1,4 +1,5 @@
-![amigoSecreto](https://github.com/user-attachments/assets/0d862b77-8012-4589-ab49-026d678eafaf)
+<h1>Juego del Amigo Secreto</h1>
+
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
